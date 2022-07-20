@@ -11,4 +11,6 @@ export class BasicosComponent  {
   nombreUpper: string = 'KIKO';
   nombreCapitalize: string = 'kIkO';
 
+  fecha: Date = new Date();
+
 }
